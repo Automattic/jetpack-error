@@ -9,9 +9,9 @@ use Automattic\Jetpack\Error;
 use PHPUnit\Framework\TestCase;
 
 /**
- * Class Test_Error
+ * Class Error_Test
  */
-class Test_Error extends TestCase {
+class Error_Test extends TestCase {
 	/**
 	 * Test Jetpack Error.
 	 */
